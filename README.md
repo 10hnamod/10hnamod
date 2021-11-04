@@ -16,3 +16,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
    <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href ="https://threejs.org/" target="_bank"> <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg" alt="Threejs" width="40" height="40"/> </a>
+    <a href ="https://www.oracle.com/java/technologies/" target="_bank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="40"/>        </a>
+  
+</p>
